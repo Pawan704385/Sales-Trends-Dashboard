@@ -14,14 +14,13 @@ This project is a Power BI dashboard that provides insightful data analysis for 
 
 ## Data Sources
 
-- **Excel/CSV files** (if applicable)
+- **Excel/CSV files** 
 - **Publicly available datasets**
 
 ## Tools Used
 
 - Power BI
-- SQL (if applicable)
-- Excel (if applicable)
+- Excel 
 
 ## Insights & Findings
 
@@ -43,13 +42,12 @@ This project is a Power BI dashboard that provides insightful data analysis for 
  ├── PRJCT1.pbix  # Power BI project file
  ├── README.md    # Project documentation
  ├── Screenshots/ # Dashboard images
- │   ├── ![Screenshot (173)](https://github.com/user-attachments/assets/ef771240-d3a1-4900-a8b8-ea42b4b9a9e3
+ │   ├── Screenshot1.png
  └── Dataset/     # Raw data files (if applicable)
 ```
 
 ## Screenshot Previews
-
-
+![Screenshot (173)](https://github.com/user-attachments/assets/ef771240-d3a1-4900-a8b8-ea42b4b9a9e3](https://github.com/Pawan704385/Sales-Trends-Dashboard/blob/main/Screenshot%20(173).png?raw=true)
 
 
 
@@ -58,13 +56,6 @@ This project is a Power BI dashboard that provides insightful data analysis for 
 1. Download and install **Power BI Desktop**.
 2. Clone this repository or download the `.pbix` file.
 3. Open the project in Power BI Desktop.
-
-## How to Upload Screenshots
-
-1. Capture screenshots of your Power BI dashboard.
-2. Save them as `screenshot1.png`, `screenshot2.png`, etc.
-3. Upload them to the **Screenshots** folder in your GitHub repository.
-4. Replace the placeholder links above with the actual links to your images.
 
 ## Contribution
 
