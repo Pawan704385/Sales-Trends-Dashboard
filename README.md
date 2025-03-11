@@ -47,7 +47,7 @@ This project is a Power BI dashboard that provides insightful data analysis for 
 ```
 
 ## Screenshot Previews
-![Screenshot (173)](https://github.com/user-attachments/assets/ef771240-d3a1-4900-a8b8-ea42b4b9a9e3](https://github.com/Pawan704385/Sales-Trends-Dashboard/blob/main/Screenshot%20(173).png?raw=true)
+![image alt](https://github.com/Pawan704385/Sales-Trends-Dashboard/blob/e2d04102dcc54bd0fe4c67033a95bb56ebaafd59/Screenshot%20(173).png)
 
 
 
